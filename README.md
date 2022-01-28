@@ -48,7 +48,7 @@
 <p >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
 </p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkohn&theme=tokyonight" alt="andrewkohn" /></p>
