@@ -51,8 +51,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
 </p>
 
-<br/>
-<hr>
-<br/>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkohn&theme=tokyonight" alt="andrewkohn" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkohn&theme=tokyonight" alt="andrewkohn" /></p>
