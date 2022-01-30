@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Andrew Kohn! 👍</h1>
 
-<h3 align="left">I'm a Web/Software Developer hailing from Minnesota with a heavy background in Healthcare and Administration.</h3>
+<h3 align="left">I'm an aspiring Web/Software Developer hailing from Minnesota with a heavy background in Healthcare and Administration.</h3>
 
 <p>🌱 I’m currently learning Data Structures and Algorithms.</p>
 
