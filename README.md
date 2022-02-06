@@ -7,22 +7,22 @@
 <hr>
 
 <h3 align="left">Currently learning skills</h3>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 icon"></code> &nbsp;
+&nbsp;&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3 icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg" alt="c icon"></code>
 <br/><br/>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql icon"></code> &nbsp;
+&nbsp;&nbsp; <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg" alt="typescript icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="react icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java icon"></code>
 <br/><br/>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kotlin.svg" alt="kotlin icon"></code> &nbsp;
+&nbsp;&nbsp; <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kotlin.svg" alt="kotlin icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sass.svg" alt="sass icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" alt="node.js icon"></code>
 <br/><br/>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/redux.svg" alt="redux icon"></code> &nbsp;
+&nbsp;&nbsp; <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/redux.svg" alt="redux icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="python icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" alt="mongo.db icon"></code>
 
