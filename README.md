@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm an aspiring Web/Software Developer hailing from Minnesota with a heavy background in Healthcare and Administration.</h3>
 
-<p>🌱 I’m currently learning Data Structures and Algorithms & JavaScript!</p>
+//<p>🌱 I’m currently learning Data Structures and Algorithms & JavaScript!</p>
 
 <hr>
 
