@@ -13,7 +13,7 @@
 &nbsp;&nbsp; <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg" alt="typescript icon"></code> &nbsp;
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="react icon"></code> &nbsp;
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ajava.svg" alt="java icon"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg" alt="java icon"></code>
 <br/><br/>
 &nbsp;&nbsp; <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kotlin.svg" alt="kotlin icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon"></code> &nbsp;
