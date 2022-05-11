@@ -1,9 +1,3 @@
-<h1 align="left">Hi, I'm Andrew Kohn! 👍</h1>
-
-<h3 align="left">I'm an aspiring Web/Software Developer hailing from Minnesota with a heavy background in Healthcare and Administration.</h3>
-
-<hr>
-
 <h3 align="left">Currently learning skills</h3>
 &nbsp;&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5 icon"></code> &nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3 icon"></code> &nbsp;
@@ -40,8 +34,8 @@
 
 <p >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
-
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andrewkohn&show_icons=true&theme=tokyonight&locale=en" alt="andrewkohn" />
 </p>
-
+ -->
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkohn&theme=tokyonight" alt="andrewkohn" /></p>
