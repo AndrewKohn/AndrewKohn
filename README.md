@@ -19,8 +19,9 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" alt="mongo.db icon"></code>
 
 <hr>
-
+<!-- 
 <h3 align="left">Follow me on:</h3>
+ -->
 <p align="left">
   &nbsp;&nbsp;
 <a href="https://twitter.com/andrewkohn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewkohn_dev twitte" height="30" width="40" /></a>&nbsp;&nbsp;
