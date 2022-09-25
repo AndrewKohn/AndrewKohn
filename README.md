@@ -62,7 +62,7 @@ I am always motivated to learn new things & to collaborate with you, so feel fre
 
 #
 
-<div align="right">&nbsp;&nbsp;
+<div align="center">&nbsp;&nbsp;
 <a href="https://twitter.com/andrewkohn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewkohn_dev twitte" height="30" width="40" /></a>
 &nbsp;&nbsp;
 <a href="mailto: andy@akohn.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="andrewkohn email" height="30" width="30" /></a></div>
