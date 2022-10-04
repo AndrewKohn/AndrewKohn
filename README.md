@@ -49,10 +49,9 @@ I am always motivated to learn new things & to collaborate with you, so feel fre
 ### 📊 Stats
 
 ![AndrewKohn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewKohn&theme=darcula&hide_border=false)
-<img align="right" alt="github statcard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKohn&theme=darcula&show_icons=true&hide_border=false" />
+<img align="right" alt="github statcard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkohn&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 <br/><br/>
-![AndrewKohn's Stats](https://github-readme-stats.vercel.app/api?username=AndrewKohn&theme=darcula&show_icons=true&hide_border=false&count_private=true)
-
+![andrewkohn's Stats](https://github-readme-stats.vercel.app/api?username=andrewkohn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 #
 
 <details>
