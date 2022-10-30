@@ -19,10 +19,10 @@ I am always motivated to learn new things & to collaborate with you, so feel fre
   &nbsp;
   <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" /></code>
   &nbsp;
-  <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg" alt="c icon" /></code>
+  <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c icon" /></code>
   <br/><br/>
   &nbsp;&nbsp;
-  <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="mysql icon" /></code>
+  <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql icon" /></code>
   &nbsp;
   <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript icon" /></code>
   &nbsp;
@@ -35,13 +35,13 @@ I am always motivated to learn new things & to collaborate with you, so feel fre
   &nbsp;
   <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon" /></code>
   &nbsp;
-  <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sass.svg" alt="sass icon" /></code>
+  <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass icon" /></code>
   &nbsp;
-  <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" alt="node.js icon" /></code>
+  <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js icon" /></code>
   <br/><br/>
   &nbsp;&nbsp; <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/redux.svg" alt="redux icon" /></code>
   &nbsp;
-  <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="python icon" /></code>
+  <code><img height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python icon" /></code>
   &nbsp;
   <code><img height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" alt="mongo.db icon" /></code>
 
