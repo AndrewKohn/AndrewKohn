@@ -81,8 +81,9 @@ My name is Andy and I live in Minnesota. I work in healthcare but currently in t
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   [TODO] finish later
 </details>
- -->
 #
+ -->
+
 
 <div align="center">&nbsp;&nbsp;
 <a href="https://twitter.com/kohnandrew_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewkohn_dev twitter" height="30" width="40" /></a>
