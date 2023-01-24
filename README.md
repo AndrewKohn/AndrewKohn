@@ -7,15 +7,9 @@
   <code>A Determined & Passionate Software Developer</code>
 </div>
 <br/>
-<br/>
 
-I am a Front-End Developer from Minnetonka, MN and I am currently expanding my skillset to become a Full-Stack Developer. 
-<br/><br/>
-All of my coding projects are built from the ground up, from planning & designing to solving my personal real-world problems with code. I am constantly in the pursuit of becoming a <strong>proficient programmer</strong> and try to push beyond my limits, as all those flaws and errors I encounter in my journey aids my learning of new concepts & skills. I love jumping into new and unknown programming features and I try to implement them into my code to help solve problems for myself or others.
-<br/><br/>
-I am always motivated to learn new things & to collaborate with you, so feel free to <a href="mailto:contact@kohnandrew.com">contact me</a>.
+My name is Andy and I live in Minnesota. I work in healthcare but currently in the process of switching careers into a developer role. I’m most comfortable with front-end development, but I'm working on all parts of full-stack development. I mainly dive into React, Nodejs, Java and a bit of python, and I’m not shy on trying out new languages since I’m always up for anything that helps me learn. I'm currently focusing on assisting open-source issues & PR's and volunteering meaningful contributions to help communities and the environment and to gain experience as a developer!
 
-<br/>
 
 ---
 
@@ -82,12 +76,12 @@ I am always motivated to learn new things & to collaborate with you, so feel fre
 </details>
 
 #
-
+<!-- 
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   [TODO] finish later
 </details>
-
+ -->
 #
 
 <div align="center">&nbsp;&nbsp;
