@@ -23,7 +23,7 @@
 
 ---
 
-<details open>
+<details>
   <summary><h3>🧰 Tools</h3></summary>
   <br />
   <dl>
