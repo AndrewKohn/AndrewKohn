@@ -8,22 +8,9 @@
   <code>A Determined & Passionate Software Developer</code>
 </div>
 
-<br />
-
-<p>
-  My name is Andy and I live in Minnesota. I work in healthcare but currently in
-  the process of switching careers into a developer role. I’m most comfortable
-  with front-end development, but I'm working on all parts of full-stack
-  development. I mainly dive into React, Nodejs, Java and a bit of python, and
-  I’m not shy on trying out new languages since I’m always up for anything that
-  helps me learn. I'm currently focusing on assisting open-source issues & PR's
-  and volunteering meaningful contributions to help communities and the
-  environment and to gain experience as a developer!
-</p>
-
 ---
 
-<details>
+<details open>
   <summary><h3>🧰 Tools</h3></summary>
   <br />
   <dl>
@@ -214,22 +201,12 @@
 
 #
 
-<details>
+<details open>
   <summary><h3>📊 Stats</h3></summary>
   <br />
   <div align="center">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkohn&theme=tokyonight&hide_border=false"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=andrewkohn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
-    />
-  </div>
-  <br /><br />
-  <div align="center">
-    <img
-      alt="github statcard"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkohn&theme=tokyonight&show_icons=true&hide_border=false"
     />
   </div>
 </details>
