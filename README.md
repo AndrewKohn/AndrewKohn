@@ -201,7 +201,7 @@
 
 #
 
-<details open>
+<details>
   <summary><h3>📊 Stats</h3></summary>
   <br />
   <div align="center">
