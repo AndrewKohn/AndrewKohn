@@ -166,7 +166,7 @@
       <code
         ><img
           height="36px"
-          src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
           alt="docker icon"
           title="Docker"
       /></code>
