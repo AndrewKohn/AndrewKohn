@@ -2,15 +2,7 @@
   🏕️&nbsp;&nbsp;&nbsp;&nbsp;Andrew Kohn&nbsp;&nbsp;&nbsp;&nbsp;⛺
 </h1>
 
-<br />
-
-<div align="center">
-  <code>A Determined & Passionate Software Developer</code>
-</div>
-
----
-
-<details open>
+<details>
   <summary><h3>🧰 Tools</h3></summary>
   <br />
   <dl>
