@@ -24,6 +24,7 @@
           />
         </a>
       </div>
+      <br />
       <div align="center">
         <img
           height="24px"
@@ -99,6 +100,7 @@
           />
         </a>
       </div>
+      <br />
       <div align="center">
         <img
           height="24px"
@@ -136,6 +138,7 @@
           <img src="./o-notes.gif" width="100%" alt="MGH daily schedule App" />
         </a>
       </div>
+      <br />
       <div align="center">
         <img
           height="24px"
@@ -208,6 +211,7 @@
           />
         </a>
       </div>
+      <br />
       <div align="center">
         <img
           height="24px"
