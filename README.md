@@ -1,4 +1,6 @@
-<img src="./banner.jpg" width="100%" />
+<a target="_blank" href="https://kohnandrew.com/">
+  <img src="./banner.jpg" width="100%" />
+</a>
 
 <div  align="center">
   <a target="_blank" href="https://kohnandrew.com/">Portfolio Site</a>
