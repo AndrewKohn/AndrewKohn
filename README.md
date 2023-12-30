@@ -4,6 +4,11 @@
   <a target="_blank" href="https://kohnandrew.com/">Portfolio Site</a>
 </div>
 
+<div  align="center">
+  <a target="_blank" href="https://github.com/AndrewKohn/nvim-config">neovim config</a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/AndrewKohn/tmux.config">tmux config</a>
+</div>
 #
 
 <details open>
@@ -155,6 +160,12 @@
             src="https://skillicons.dev/icons?i=rust"
             alt="rust icon"
             title="Rust"
+        />      
+        &nbsp;
+        <img
+            src="https://skillicons.dev/icons?i=neovim"
+            alt="neovim icon"
+            title="Neovim"
         />      
       </dd>
     </dl>
