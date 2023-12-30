@@ -9,6 +9,7 @@
   &nbsp;&nbsp;
   <a target="_blank" href="https://github.com/AndrewKohn/tmux.config">tmux config</a>
 </div>
+
 #
 
 <details open>
