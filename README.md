@@ -150,6 +150,12 @@
             alt="azure icon"
             title="Microsoft Azure"
         />
+        &nbsp;
+        <img
+            src="https://skillicons.dev/icons?i=rust"
+            alt="rust icon"
+            title="Rust"
+        />      
       </dd>
     </dl>
   </div>
